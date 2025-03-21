@@ -1,6 +1,6 @@
 # MyFreelanceWork
 
-This repository consists all my freelancing work which I have done in past with different companies mostly in Python, PHP, wordpress, html, javascript, iframe, ebay/google/amazon apis.
+This repository consists all my freelancing work which I have done in past with different companies mostly in Python, LLM, OpenAI, Streamlit, SQL, Web Crawling/Scraping, Pandas, CSV, FastAPI, Docker, PHP, wordpress, html, javascript, iframe, ebay/google/amazon apis.
 
 1. Text-to-SQL Agentic AI chatbot (OpenAI, Python, MySQL, Streamlit, sql agent): A Streamlit-based GenAI assistant for querying SQL databases using Large Language Models (LLMs). https://github.com/hirangoly/text-to-sql-chatbot
 2. Financial Chatbot (VectorDB, Langchain, Python, history maintaning, web scraping): Financial bot with LLMs https://github.com/hirangoly/financial-bot
